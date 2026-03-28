@@ -13,7 +13,7 @@
 ---
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/pankaj55">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,42 +28,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://img.shields.io/badge/MSSQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark"/>
   <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GDB-000?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baje555&theme=tokyonight&hide_border=true&show_icons=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=baje555&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=baje555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=baje555&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
