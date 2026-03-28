@@ -6,16 +6,16 @@
 ---
 
 ## 💫 About Me
-💻🐧 Cybersecurity enthusiast focused on Linux-based systems (Arch + Hyprland)  
-🔐🧠 Passionate about ethical hacking & web security  
-🕵️‍♂️🚩 Active CTF player with strong analytical mindset  
+💻🐧 Cybersecurity enthusiast with a strong focus on Linux (Arch + Hyprland)  
+🔐🧠 Ethical hacking & web security  
+🕵️‍♂️🚩 CTF player with solid problem-solving mindset  
 
 ---
 
 ## 🌐 Socials
 <p align="left">
 <a href="https://linkedin.com/in/pankaj55">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -23,17 +23,18 @@
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,java,py,bash,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,java,py,bash,linux" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/MSSQL-111?style=flat-square&logo=microsoftsqlserver"/>
-<img src="https://img.shields.io/badge/Burp-111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nmap-111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-111?style=flat-square&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-111?style=flat-square"/>
-<img src="https://img.shields.io/badge/GDB-111?style=flat-square"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/MSSQL-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GDB-000?style=for-the-badge"/>
 </p>
 
 ---
