@@ -1,59 +1,78 @@
-# 💫 About Me:
-💻🐧 Cybersecurity enthusiast with strong expertise in Linux-based systems (Arch Linux, Hyprland)  
-🔐🧠 Focused on ethical hacking, web security, and binary exploitation  
-🕵️‍♂️🚩 Active CTF participant with strong problem-solving and analytical skills  
+<!-- Banner -->
+<h1 align="center">💀 Pankaj | Cybersecurity Enthusiast</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+%7C+CTF+Player;Web+Exploitation+%7C+PWN;Linux+Power+User+(Arch BTW)" />
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj55)
+## 🧠 About Me
+💻🐧 Linux-focused (Arch Linux + Hyprland)  
+🔐 Exploiting web apps & learning binary exploitation  
+🕵️‍♂️ CTF player who enjoys breaking things (ethically... mostly)  
+⚡ Always tinkering, debugging, and going down rabbit holes  
 
 ---
 
-# 💻 Tech Stack:
+## 🌐 Connect
+<p align="left">
+<a href="https://linkedin.com/in/pankaj55" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-### 🧠 Languages & Scripting
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### 🌐 Web & Database
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## ⚒️ Tech Arsenal
 
-### 🔐 Security & Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%230074D9.svg?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-%23A42E2B.svg?style=for-the-badge)
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=gnubash)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+
+### 🌐 Web & DB
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![MSSQL](https://img.shields.io/badge/MSSQL-111?style=for-the-badge&logo=microsoftsqlserver)
+
+### 🔐 Security Tools
+![Burp Suite](https://img.shields.io/badge/BurpSuite-111?style=for-the-badge&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-111?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-111?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-111?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-111?style=for-the-badge)
 
 ### ⚙️ Environment
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-%23000000.svg?style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/Arch-111?style=for-the-badge&logo=archlinux)
+![Hyprland](https://img.shields.io/badge/Hyprland-111?style=for-the-badge)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baje555&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baje555&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baje555&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baje555&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=baje555&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baje555&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baje555&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baje555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baje555&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baje555&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=baje555&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=baje555&icon=6&color=0"/>
+</p>
